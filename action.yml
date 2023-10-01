@@ -41,4 +41,4 @@ outputs:
     description: "Relative path to the checksum of the archive"
 runs:
   using: "docker"
-  image: "docker://docker.io/mortenlohne/rust-build:0.0.3"
+  image: "docker://docker.io/mortenlohne/rust-build:0.0.4"
